@@ -1,1 +1,1 @@
-# LeetCode
+# 记录刷leetcode的思路和答案
