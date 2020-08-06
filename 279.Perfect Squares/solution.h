@@ -13,7 +13,7 @@ public:
 
             for (int i = 1; num - i * i >= 0; i++) {
                 if (num - i * i == 0) {
-                    return step;
+                    return step + 1;
                 }
 
                 if (!visited[num - i * i]) {
